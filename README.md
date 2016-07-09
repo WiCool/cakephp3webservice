@@ -1,10 +1,3 @@
-# CakePHP Application Skeleton
-
-[![Build Status](https://api.travis-ci.org/cakephp/app.png)](https://travis-ci.org/cakephp/app)
-[![License](https://poser.pugx.org/cakephp/app/license.svg)](https://packagist.org/packages/cakephp/app)
-
-A skeleton for creating applications with [CakePHP](http://cakephp.org) 3.x.
-
 The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
 ## Installation
@@ -20,7 +13,6 @@ composer create-project --prefer-dist cakephp/app [app_name]
 You should now be able to visit the path to where you installed the app and see
 the setup traffic lights.
 
-## Configuration
+Youtube: https://youtu.be/Y4-5fxttwPw
+Blog: https://trinitytuts.com/create-rest-web-services-in-cakephp-3/
 
-Read and edit `config/app.php` and setup the 'Datasources' and any other
-configuration relevant for your application.
